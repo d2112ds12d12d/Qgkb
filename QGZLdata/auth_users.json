@@ -1,8 +1,9 @@
 {
-  "trainers": [
+  "users": [
     {
       "id": "Zh5^%i0^W*3TfxN8",
       "name": "曾权",
+      "role": "trainer",
       "sites": [
         "转转-深圳智能验机中心",
         "深圳后验中心仓"
@@ -14,6 +15,7 @@
     {
       "id": "$eV81%5^3!msGEyO",
       "name": "王礼宇",
+      "role": "trainer",
       "sites": [
         "转转-深圳智能验机中心",
         "深圳后验中心仓"
@@ -25,6 +27,7 @@
     {
       "id": "LI9*9dI$00&Qk@fq",
       "name": "李翊豪",
+      "role": "trainer",
       "sites": [
         "转转-深圳智能验机中心",
         "深圳后验中心仓"
@@ -38,6 +41,7 @@
     {
       "id": "E^7k@%2ob@P0wC3S",
       "name": "李广洲",
+      "role": "trainer",
       "sites": [
         "转转-青岛智能验机中心",
         "青岛后验中心仓"
@@ -49,6 +53,7 @@
     {
       "id": "j67@omN33JR^o##H",
       "name": "秦震磊",
+      "role": "trainer",
       "sites": [
         "转转-青岛智能验机中心",
         "青岛后验中心仓"
@@ -60,6 +65,7 @@
     {
       "id": "!3@3N8gf%H$Qcp4T",
       "name": "李正浩",
+      "role": "trainer",
       "sites": [
         "转转-青岛智能验机中心",
         "青岛后验中心仓"
@@ -73,6 +79,7 @@
     {
       "id": "6r!W32DCUq*m#7d#",
       "name": "周榆清",
+      "role": "trainer",
       "sites": [
         "转转-成都智能验机中心",
         "成都后验中心仓"
@@ -84,6 +91,7 @@
     {
       "id": "qe$!6$fLj93LM^X0",
       "name": "潘天一",
+      "role": "trainer",
       "sites": [
         "转转-成都智能验机中心",
         "成都后验中心仓"
@@ -93,8 +101,23 @@
       ]
     },
     {
+      "id": "qxncjmw/～1@+%",
+      "name": "王耀辉",
+      "role": "trainer",
+      "sites": [
+        "转转-成都智能验机中心",
+        "成都后验中心仓"
+      ],
+      "cats": [
+        "笔记本",
+        "手表",
+        "耳机"
+      ]
+    },
+    {
       "id": "v!SjO6I7N!!0or*8",
       "name": "张永童",
+      "role": "trainer",
       "sites": [
         "南昌库"
       ],
@@ -108,6 +131,7 @@
     {
       "id": "iR^98Fi0$MH^k0%w",
       "name": "程襄荆",
+      "role": "trainer",
       "sites": [
         "襄阳中心仓"
       ],
@@ -121,6 +145,7 @@
     {
       "id": "3lD^6!DQAnbc9!@9",
       "name": "宗飞飞",
+      "role": "trainer",
       "sites": [
         "武汉库"
       ],
@@ -134,6 +159,7 @@
     {
       "id": "6rDN#e4RO0r&#n^2",
       "name": "赵圣林",
+      "role": "trainer",
       "sites": [
         "济南库"
       ],
@@ -147,6 +173,7 @@
     {
       "id": "b@D6$*%95BOfdUk5",
       "name": "韩子申",
+      "role": "trainer",
       "sites": [
         "石家庄库"
       ],
@@ -160,6 +187,7 @@
     {
       "id": "%@4Eq$zHCOe33e@0",
       "name": "韩昊",
+      "role": "trainer",
       "sites": [
         "杭州库"
       ],
@@ -173,6 +201,7 @@
     {
       "id": "*4$yUyaEA96&b*9H",
       "name": "李忠",
+      "role": "trainer",
       "sites": [
         "长沙库"
       ],
@@ -186,6 +215,7 @@
     {
       "id": "LKB%bW8i!i05$3@e",
       "name": "何袁袁",
+      "role": "trainer",
       "sites": [
         "重庆库"
       ],
@@ -199,6 +229,7 @@
     {
       "id": "*g2y!%LACt&4Hm41",
       "name": "陈中民",
+      "role": "trainer",
       "sites": [
         "郑州库"
       ],
@@ -212,6 +243,7 @@
     {
       "id": "R4410*Ct!su%$PIe",
       "name": "袁续",
+      "role": "trainer",
       "sites": [
         "合肥库"
       ],
@@ -225,6 +257,7 @@
     {
       "id": "O#pk4VU$774*Khn@",
       "name": "杨佳丹",
+      "role": "trainer",
       "sites": [
         "深圳中心仓"
       ],
@@ -238,6 +271,7 @@
     {
       "id": "7e1q*M$m3O5Vz!&K",
       "name": "左成龙",
+      "role": "trainer",
       "sites": [
         "西安库"
       ],
@@ -251,6 +285,7 @@
     {
       "id": "L&B!1n&rI@p1F79a",
       "name": "岳丰平",
+      "role": "trainer",
       "sites": [
         "福州库"
       ],
@@ -264,6 +299,7 @@
     {
       "id": "%Ov3J&$sM4%gPo69",
       "name": "孟德强",
+      "role": "trainer",
       "sites": [
         "沈阳库"
       ],
@@ -277,6 +313,7 @@
     {
       "id": "Nz%GI$!q38^7a8eZ",
       "name": "田睿",
+      "role": "trainer",
       "sites": [
         "昆明库"
       ],
@@ -290,6 +327,7 @@
     {
       "id": "#*ymVTI1Usz6#74^",
       "name": "付轲",
+      "role": "trainer",
       "sites": [
         "南京库"
       ],
@@ -303,6 +341,7 @@
     {
       "id": "*1D11H8##@bfRkrB",
       "name": "张兴",
+      "role": "trainer",
       "sites": [
         "成都库"
       ],
