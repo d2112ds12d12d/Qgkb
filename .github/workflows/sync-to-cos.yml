@@ -1,0 +1,42 @@
+name: Sync data to COS
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - 'QGZLdata/**'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install coscmd
+        run: pip install coscmd
+
+      - name: Configure coscmd
+        run: |
+          coscmd config \
+            -a ${{ secrets.TENCENT_SECRET_ID }} \
+            -s ${{ secrets.TENCENT_SECRET_KEY }} \
+            -b zlkb-hk-1423465873 \
+            -r ap-hongkong
+
+      - name: Count files before sync
+        id: before
+        run: |
+          COUNT=$(find QGZLdata -type f | wc -l)
+          SIZE=$(du -sb QGZLdata | cut -f1)
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "size=$SIZE" >> $GITHUB_OUTPUT
+          echo "Before: $COUNT files, $SIZE bytes"
+
+      - name: Sync QGZLdata to COS
+        run: coscmd upload -rs QGZLdata/ /QGZLdata/
+
+      - name: Verify sync
+        run: |
+          echo "Source: ${{ steps.before.outputs.count }} files, ${{ steps.before.outputs.size }} bytes"
+          echo "Sync complete. Check COS console to confirm."
