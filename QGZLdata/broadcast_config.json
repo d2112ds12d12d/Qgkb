@@ -11,6 +11,7 @@
     "武汉库": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=9453d9cb-c8f0-4693-9d13-323144db6ae0",
     "济南库": "31f743b5-b7b9-4004-9c03-e20bfb22516d",
     "合肥库": "ea10d2d6-7a42-4e89-b36e-ba23728630eb",
-    "长沙库": "74a9f6e1-24aa-4352-a787-9bdd546b4e92"
+    "长沙库": "74a9f6e1-24aa-4352-a787-9bdd546b4e92",
+    "深圳中心仓": "oc_f43470a21cee1ce2786d572924624fe2"
   }
 }
