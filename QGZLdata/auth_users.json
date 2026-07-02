@@ -133,7 +133,8 @@
       "name": "程襄荆",
       "role": "trainer",
       "sites": [
-        "襄阳中心仓"
+        "襄阳中心仓",
+        "郑州库"
       ],
       "cats": [
         "手机",
@@ -189,7 +190,7 @@
       "name": "韩昊",
       "role": "trainer",
       "sites": [
-        "杭州库"
+        "深圳中心仓"
       ],
       "cats": [
         "手机",
@@ -217,7 +218,8 @@
       "name": "何袁袁",
       "role": "trainer",
       "sites": [
-        "重庆库"
+        "重庆库",
+        "西安库"
       ],
       "cats": [
         "手机",
@@ -230,9 +232,7 @@
       "id": "*g2y!%LACt&4Hm41",
       "name": "陈中民",
       "role": "trainer",
-      "sites": [
-        "郑州库"
-      ],
+      "sites": [],
       "cats": [
         "手机",
         "笔记本",
@@ -258,9 +258,7 @@
       "id": "O#pk4VU$774*Khn@",
       "name": "杨佳丹",
       "role": "trainer",
-      "sites": [
-        "深圳中心仓"
-      ],
+      "sites": [],
       "cats": [
         "手机",
         "笔记本",
@@ -272,9 +270,7 @@
       "id": "7e1q*M$m3O5Vz!&K",
       "name": "左成龙",
       "role": "trainer",
-      "sites": [
-        "西安库"
-      ],
+      "sites": [],
       "cats": [
         "手机",
         "笔记本",
@@ -287,6 +283,7 @@
       "name": "岳丰平",
       "role": "trainer",
       "sites": [
+        "杭州库",
         "福州库"
       ],
       "cats": [
