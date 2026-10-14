@@ -197,8 +197,7 @@
       "name": "何袁袁",
       "role": "trainer",
       "sites": [
-        "重庆库",
-        "西安库"
+        "重庆库"
       ],
       "cats": [
         "全部"
@@ -220,7 +219,6 @@
       "name": "岳丰平",
       "role": "trainer",
       "sites": [
-        "杭州库",
         "福州库"
       ],
       "cats": [
@@ -266,6 +264,28 @@
       "role": "trainer",
       "sites": [
         "成都库"
+      ],
+      "cats": [
+        "全部"
+      ]
+    },
+    {
+      "id": "lIDp8BVA-VDK7-18",
+      "name": "夏梦园",
+      "role": "trainer",
+      "sites": [
+        "杭州库"
+      ],
+      "cats": [
+        "全部"
+      ]
+    },
+    {
+      "id": "NrfQZP5y7emynHQ4",
+      "name": "郭婷婷",
+      "role": "trainer",
+      "sites": [
+        "西安库"
       ],
       "cats": [
         "全部"
